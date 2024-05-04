@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 
 ![](./ets/logo-desktop.svg)
 
-### [Серов Николай Евгеньевич](https://www.specialist.ru/trainer/%D1%81%D0%B5%D1%80%D0%BE%D0%B2)
-
 ![](https://cdn.specialist.ru/Content/Image/Employee/%D0%A1%D0%95%D0%A0%D0%9E%D0%92.jpg)
+
+### [Серов Николай Евгеньевич](https://www.specialist.ru/trainer/%D1%81%D0%B5%D1%80%D0%BE%D0%B2)
 
 [Бауманский учебный центр СПЕЦИАЛИСТ ](https://www.specialist.ru/trainer/%D1%81%D0%B5%D1%80%D0%BE%D0%B2 "Специалист")
 
