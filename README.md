@@ -1,6 +1,6 @@
 ### [Серов Николай Евгеньевич](https://www.specialist.ru/trainer/%D1%81%D0%B5%D1%80%D0%BE%D0%B2)
 
-#[Бауманский учебный центр СПЕЦИАЛИСТ ](https://www.specialist.ru/trainer/%D1%81%D0%B5%D1%80%D0%BE%D0%B2 "Специалист")
+[Бауманский учебный центр СПЕЦИАЛИСТ ](https://www.specialist.ru/trainer/%D1%81%D0%B5%D1%80%D0%BE%D0%B2 "Специалист")
 
 
 ## Реализованные проекты
