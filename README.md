@@ -1,4 +1,4 @@
-[Альт-текст](https://cdn1.vectorstock.com/i/1000x1000/63/15/stylish-young-man-avatar-or-userpic-in-flat-design-vector-17126315.jpg)
+![Альт-текст](https://cdn1.vectorstock.com/i/1000x1000/63/15/stylish-young-man-avatar-or-userpic-in-flat-design-vector-17126315.jpg)
 
 Шпаргалка по Markdown:
 
