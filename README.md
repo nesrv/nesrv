@@ -32,7 +32,7 @@
 ### Ссылки и изображения
 ```markdown
 [Текст ссылки](URL)
-![Альт-текст](URL-изображения)
+![Альт-текст](https://cdn1.vectorstock.com/i/1000x1000/63/15/stylish-young-man-avatar-or-userpic-in-flat-design-vector-17126315.jpg)
 ```
 
 ### Код
